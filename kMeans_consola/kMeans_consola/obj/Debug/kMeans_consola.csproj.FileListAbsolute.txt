@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\kMeans_consola\kMeans_consola\obj\Debug\kMeans_consola.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\kMeans_consola\kMeans_consola\obj\Debug\kMeans_consola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\kMeans_consola\kMeans_consola\bin\Debug\kMeans_consola.exe.config
+C:\Users\Usuario\source\repos\kMeans_consola\kMeans_consola\bin\Debug\kMeans_consola.exe
+C:\Users\Usuario\source\repos\kMeans_consola\kMeans_consola\bin\Debug\kMeans_consola.pdb
+C:\Users\Usuario\source\repos\kMeans_consola\kMeans_consola\obj\Debug\kMeans_consola.exe
+C:\Users\Usuario\source\repos\kMeans_consola\kMeans_consola\obj\Debug\kMeans_consola.pdb
+C:\Users\ali_5\Documents\ia_20201_d\15151234\kMeans_consola\kMeans_consola\bin\Debug\kMeans_consola.exe.config
+C:\Users\ali_5\Documents\ia_20201_d\15151234\kMeans_consola\kMeans_consola\bin\Debug\kMeans_consola.exe
+C:\Users\ali_5\Documents\ia_20201_d\15151234\kMeans_consola\kMeans_consola\bin\Debug\kMeans_consola.pdb
+C:\Users\ali_5\Documents\ia_20201_d\15151234\kMeans_consola\kMeans_consola\obj\Debug\kMeans_consola.csprojAssemblyReference.cache
+C:\Users\ali_5\Documents\ia_20201_d\15151234\kMeans_consola\kMeans_consola\obj\Debug\kMeans_consola.csproj.CoreCompileInputs.cache
+C:\Users\ali_5\Documents\ia_20201_d\15151234\kMeans_consola\kMeans_consola\obj\Debug\kMeans_consola.exe
+C:\Users\ali_5\Documents\ia_20201_d\15151234\kMeans_consola\kMeans_consola\obj\Debug\kMeans_consola.pdb
